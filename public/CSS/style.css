@@ -1,0 +1,63 @@
+.ert{
+   
+    width: 98%;
+  
+    background: #fff;
+    margin: 20px;
+    border-radius: 20px;
+}
+.card1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+  
+    background-clip: border-box;
+    border-radius: 5px;
+    border: 1px solid #deebfd;;
+    margin-bottom: 1.3rem;
+    box-shadow: -8px 12px 18px 0 #dadee8;
+}
+.breadcrumb-header1{
+ 
+    display: flex;
+    padding-top: 24px;
+    padding-right: 15px;
+    margin-bottom: 29px;
+    width: 100%;
+    
+}
+.heder-cours{
+    width: 100%;
+    margin: 0px 20px;
+    padding-bottom: 25px;
+}
+.body-cours{
+    width: 30%;
+    margin: 10px;
+    box-shadow: 0 2px 5px 0 rgb(50 50 105 / 15%), 0 1px 1px 0 rgb(0 0 0 / 5%);
+    min-height: 240px;
+    border-radius: 14px;
+    display: inline-block;
+}
+.courseImage{
+    width: 100%;
+   
+}
+.courseImage img{
+  
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    width: 100%;
+
+}
+.courseName{
+    padding-right: 15px;
+    padding-top: 20px;
+}
+.operations{
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
